@@ -1,0 +1,44 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e2edff;
+}
+#about,
+#project {
+  padding-top: 4rem;
+}
+#project {
+  background-color: #e2edff;
+}
+
+p {
+  display: inline-block;
+}
+
+.red {
+  color: red;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+.size {
+  width: 3rem;
+  height: auto;
+}
+
+#footer {
+  color: white;
+  background-color: #0099ff;
+}
+
+.navbar {
+  font-size: 10;
+}
+.nlight {
+  color: white;
+}
+.bglight {
+  background-color: aliceblue;
+}
